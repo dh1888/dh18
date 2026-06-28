@@ -1,30 +1,20 @@
-# DH Icon Resources
+# 🎨 DH18 图标资源库
 
-> Official icon resources for **DH18**.
+本仓库用于存放 DH18 项目所使用的图标、头像及图片资源，可直接通过 GitHub Raw 链接进行访问。
 
-## 📁 Directory Structure
+---
+
+## 📂 仓库地址
 
 ```text
-ico/
-├── App.ico         # Windows application icon
-├── DH.png          # Transparent PNG (1024×1024)
-├── DH-512.png      # 512×512 PNG
-├── DH-256.png      # 256×256 PNG
-├── favicon.ico     # Website favicon
-└── logo.svg        # Vector logo
+https://github.com/dh1888/dh18
 ```
 
 ---
 
-## 🚀 Direct Download
+# 📥 图标资源
 
-Replace `filename` with the corresponding file name.
-
-```text
-https://raw.githubusercontent.com/dh1888/dh18/main/ico/filename
-```
-
-Example:
+## App.ico（应用程序图标）
 
 ```text
 https://raw.githubusercontent.com/dh1888/dh18/main/ico/App.ico
@@ -32,32 +22,86 @@ https://raw.githubusercontent.com/dh1888/dh18/main/ico/App.ico
 
 ---
 
-## 💻 Use in HTML
+## DH.png（DH Logo PNG）
 
-```html
-<img src="https://raw.githubusercontent.com/dh1888/dh18/main/ico/DH.png" width="128">
+```text
+https://raw.githubusercontent.com/dh1888/dh18/main/ico/DH.png
 ```
 
 ---
 
-## 🖥️ Windows (.NET)
+## DHPG.ico（DHPG 图标）
 
-```csharp
-pictureBox1.Load("https://raw.githubusercontent.com/dh1888/dh18/main/ico/DH.png");
+```text
+https://raw.githubusercontent.com/dh1888/dh18/main/ico/DHPG.ico
 ```
 
 ---
 
-## 📦 Repository
+## DHPG.png（DHPG PNG）
 
-```
-https://github.com/dh1888/dh18
+```text
+https://raw.githubusercontent.com/dh1888/dh18/main/ico/DHPG.png
 ```
 
 ---
 
-## 📄 License
+## jirf.io
 
-Copyright © DH18.
+```text
+https://raw.githubusercontent.com/dh1888/dh18/main/ico/jirf.io
+```
 
-All rights reserved.
+> ⚠ 如果这是图标文件，请确认文件名是否应为 **jirf.ico**。
+
+---
+
+## jiqirf.png（机器人图片）
+
+```text
+https://raw.githubusercontent.com/dh1888/dh18/main/ico/jiqirf.png
+```
+
+---
+
+## labixx.ico（蜡笔小新图标）
+
+```text
+https://raw.githubusercontent.com/dh1888/dh18/main/ico/labixx.ico
+```
+
+---
+
+## 蜡笔小新.png（蜡笔小新图片）
+
+> GitHub Raw 链接中的中文文件名需要进行 URL 编码，因此**不建议使用中文文件名**。
+
+建议将文件重命名为：
+
+```text
+CrayonShinchan.png
+```
+
+对应链接：
+
+```text
+https://raw.githubusercontent.com/dh1888/dh18/main/ico/CrayonShinchan.png
+```
+
+如果仍然使用中文文件名，则访问链接需要进行 URL 编码，不便于复制和使用。
+
+---
+
+# 📌 使用说明
+
+所有图片均可直接作为：
+
+* Windows 软件图标（.ico）
+* 网站 Logo
+* GitHub README 图片
+* QQ / 微信头像
+* WinForms / WPF 图片资源
+* HTML `<img>` 图片
+* API 返回图片地址
+
+只需复制对应链接即可直接使用。
