@@ -50,3 +50,21 @@ https://raw.githubusercontent.com/dh1888/dh18/main/ico/labixx.ico
 https://raw.githubusercontent.com/dh1888/dh18/main/ico/蜡笔小新.png
 ```
 
+## 背景图片
+
+```text
+https://raw.githubusercontent.com/dh1888/dh18/main/imge/1.jpg
+```
+
+```text
+https://raw.githubusercontent.com/dh1888/dh18/main/imge/2.jpg
+```
+
+```text
+https://raw.githubusercontent.com/dh1888/dh18/main/imge/3.jpg
+```
+
+```text
+https://raw.githubusercontent.com/dh1888/dh18/main/imge/4.jpg
+```
+
