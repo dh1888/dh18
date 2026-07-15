@@ -14,6 +14,10 @@ https://raw.githubusercontent.com/dh1888/dh18/main/ico/App.ico
 https://raw.githubusercontent.com/dh1888/dh18/main/ico/DH.png
 ```
 
+```text
+https://raw.githubusercontent.com/dh1888/dh18/main/ico/DHPGAPP.png
+```
+
 ---
 
 ## DHPG.ico（DHPG 图标与PNG图片）
